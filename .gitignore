@@ -1,0 +1,16 @@
+*~
+.idea*
+build/
+.vscode*
+needsbuild
+._*
+cmake-build-*
+cmake-aarch64-debug
+
+docs/doxygen/html/
+docs/doxygen/xml/
+docs/sphinx/*
+
+Testing/
+plugins/
+ivi-homescreen-plugins/
